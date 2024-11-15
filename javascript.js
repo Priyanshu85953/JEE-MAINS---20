@@ -1,6 +1,6 @@
 // javascript.js
 
-let totalMinutes = 181; // 120 minutes
+let totalMinutes = 61; // 120 minutes
 let timeLeft = totalMinutes * 60; // Convert minutes to seconds
 let timerId;
 let timerKey = 'JEE MAINS - 20....'; // Unique key for the 120-min timer
